@@ -1,0 +1,16 @@
+{
+  "name": "event-channel",
+  "version": "0.0.1",
+  "description": "基于发布／订阅模式的通信中间件。",
+  "main": "./src/EventChannel.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "https://github.com/Tissot/EventChannel",
+  "author": "T-ming <759453441@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0"
+  }
+}
